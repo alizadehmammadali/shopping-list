@@ -3,8 +3,6 @@
 
 This is a simple project which is based on **spring-boot 2.6.3** and uses **H2** database, **JPA** and contains JUnit tests, **Swagger** and **Docker**.
 
-A live deployment is available on Heroku: https://shopping-list-spring-boot.herokuapp.com/
-
 #### Build the application
 <pre>
 gradle clean build
