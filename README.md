@@ -3,6 +3,8 @@
 
 This is a simple project which is based on **spring-boot 2.6.3** and uses **H2** database, **JPA** and contains JUnit tests, **Swagger** and **Docker**.
 
+**Deployed on Heroku:** https://jur-shopping-list-mammadali.herokuapp.com/swagger-ui/index.html
+
 #### Build the application
 <pre>
 gradle clean build
